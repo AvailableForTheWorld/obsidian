@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ability/expertise/some principles.md",
+                "file": "ability/writing/02 写作基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "some principles"
+              "title": "02 写作基础"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "7b4ef0584406e44a",
   "lastOpenFiles": [
-    "ability/writing/02 写作基础.md",
     "ability/expertise/some principles.md",
+    "ability/writing/02 写作基础.md",
     "ability/expertise",
     "未命名",
     "ability/writing/01 程序员写作.md",
