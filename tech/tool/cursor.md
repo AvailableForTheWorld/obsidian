@@ -1,3 +1,8 @@
+---
+aliases:
+  - AI编辑器
+---
+
 # what's the cursor
 	现代AI编程工具，最强copilot，甚至是driver
 
