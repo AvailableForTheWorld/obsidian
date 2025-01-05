@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "errors/tools/MacOS.md",
+                "file": "tech/tool/jekyll tutorial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MacOS"
+              "title": "jekyll tutorial"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/tool/Obsidian 指南.md"
+                "file": "tech/tool/jekyll tutorial.md"
               },
               "icon": "lucide-list",
-              "title": "Obsidian 指南 的大纲"
+              "title": "Outline of jekyll tutorial"
             }
           },
           {
@@ -204,12 +204,12 @@
   },
   "active": "ed9b542da2fca84c",
   "lastOpenFiles": [
+    "tech/tool/Obsidian 指南.md",
     "tech/tool/jekyll tutorial.md",
     "errors/tools/MacOS.md",
     "errors/tools",
     "errors",
     "tech/tool/cursor.md",
-    "tech/tool/Obsidian 指南.md",
     "ability/writing/02 写作基础.md",
     "ability/writing/05 如何写好技术文章.md",
     "ability/writing/04 技术文档.md",
