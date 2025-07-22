@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/tool/Obsidian 指南.md",
+                "file": "ability/discipline/How to be self-disciplined.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian 指南"
-            }
-          },
-          {
-            "id": "e112c45b7668da60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ability/writing/01 程序员写作.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 程序员写作"
+              "title": "How to be self-disciplined"
             }
           },
           {
@@ -41,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/tool/jekyll tutorial.md",
-                "mode": "source",
+                "file": "tech/tool/Obsidian 指南.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jekyll tutorial"
+              "title": "Obsidian 指南"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,10 +54,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -193,19 +179,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed9b542da2fca84c",
+  "active": "7b4ef0584406e44a",
   "lastOpenFiles": [
     "tech/tool/Obsidian 指南.md",
+    "ability/discipline/How to be self-disciplined.md",
+    "ability/writing/01 程序员写作.md",
     "tech/tool/jekyll tutorial.md",
+    "ability/discipline",
     "errors/tools/MacOS.md",
     "errors/tools",
     "errors",
@@ -216,7 +205,6 @@
     "ability/writing/03 AI 辅助写作.md",
     "ability/expertise/some principles.md",
     "ability/expertise",
-    "ability/writing/01 程序员写作.md",
     "Untitled.md",
     "ability/writing",
     "ability",
