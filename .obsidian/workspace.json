@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9fcadec069acdd51",
+        "id": "e9f1c3e6ceb935e9",
         "type": "tabs",
         "children": [
           {
-            "id": "c31b9652ae606951",
+            "id": "1c23f49cec35bd3c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/manifest.json",
-                "bFile": ".obsidian/plugins/obsidian-git/manifest.json",
-                "aRef": ""
+                "file": "tech/knowledge/npm/package.json字段解析.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: manifest.json"
+              "icon": "lucide-file",
+              "title": "package.json字段解析"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e7895d56cf757408",
@@ -161,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 817.5
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c31b9652ae606951",
+  "active": "1c23f49cec35bd3c",
   "lastOpenFiles": [
+    "tech/knowledge/npm/package.json字段解析.md",
+    "tech/knowledge/npm",
     "ability/expertise/memory priciple.md",
     "tech/knowledge",
     "tech/tool/Obsidian 指南.md",
