@@ -20,8 +20,22 @@
               "icon": "lucide-file",
               "title": "monaco-editor"
             }
+          },
+          {
+            "id": "e564043120208b97",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (conflict-files-obsidian-git)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 428.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,10 +187,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84305e74a6cf69ba",
+  "active": "e564043120208b97",
   "lastOpenFiles": [
-    "projects/xmov/stander-configure/husky.md",
+    "conflict-files-obsidian-git.md",
     "projects/xmov/stander-configure/monaco-editor.md",
+    "tech/knowledge/npm/package.json字段解析.md",
+    "tech/knowledge/npm",
+    "tech/knowledge",
+    "ability/expertise/memory priciple.md",
+    "ability/discipline/How to be self-disciplined.md",
+    "ability/discipline",
+    "projects/xmov/stander-configure/husky.md",
     "projects/xmov",
     "projects/xmov/stander-configure",
     "projects",
@@ -196,7 +217,6 @@
     "ability/expertise",
     "Untitled.md",
     "ability/writing",
-    "ability",
     "test/创建链接.md",
     "test/欢迎.md"
   ]
